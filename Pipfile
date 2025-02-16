@@ -9,6 +9,10 @@ name = "pypi"
 autogenstudio="*"
 pyautogen="*"
 langchain="*"
+agentops="*"
+crewai="*"
+semantic-kernel="*"
+python-dotenv="*"
 
 
 [dev-packages]
@@ -16,6 +20,10 @@ langchain="*"
 autogenstudio="*"
 pyautogen="*"
 langchain="*"
+agentops="*"
+crewai="*"
+semantic-kernel="*"
+python-dotenv="*"
 
 
 [requires]
